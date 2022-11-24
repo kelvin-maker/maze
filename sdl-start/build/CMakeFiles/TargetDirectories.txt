@@ -1,5 +1,0 @@
-/home/art/PROJECTX/sdl-start/build/CMakeFiles/edit_cache.dir
-/home/art/PROJECTX/sdl-start/build/CMakeFiles/package_source.dir
-/home/art/PROJECTX/sdl-start/build/CMakeFiles/rebuild_cache.dir
-/home/art/PROJECTX/sdl-start/build/CMakeFiles/package.dir
-/home/art/PROJECTX/sdl-start/build/CMakeFiles/sdl-start.dir

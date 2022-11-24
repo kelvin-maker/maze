@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/art/PROJECTX/sdl-start/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/sdl-start.dir/src/main.cpp.o -c /home/art/PROJECTX/sdl-start/src/main.cpp",
-  "file": "/home/art/PROJECTX/sdl-start/src/main.cpp"
-}
-]
