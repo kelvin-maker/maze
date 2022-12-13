@@ -1,5 +1,5 @@
 # 3D Maze
-### Creating a 3D maze with raycasting
+### Using raycasting to create a three-dimensional maze
 ![textured_1](https://github.com/kelvin-maker/maze/master/screenshots/textured_1.png)
 -----
 
