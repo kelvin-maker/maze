@@ -5,10 +5,10 @@
 
 ### How to Compile and Run
 - [SDL2](https://www.libsdl.org/download-2.0.php) and [SDL2_image](https://www.libsdl.org/projects/SDL_image/) are required to compile and use this program
-- Compile with `gcc 4.8.4` with the following flags:
-    ``gcc -O2 -g -Wall -Werror -Wextra -pedantic -Isrc/headers *.c -lSDL2 -lSDL2_image -lm -o maze `sdl2-config --cflags --libs` `` OR `make -f Makefile`
-- Run the maze: `./maze` or `./maze maps/<map_name>`
-- Disable textures: `./maze no_tex` or `./maze maps/<map_name> no_tex`
+"SDL2 and SDL2_image are required to compile and run this program"
+"To compile the program, use GCC 4.8.4 with the specified flags: gcc -O2 -g -Wall -Werror -Wextra -pedantic -Isrc/headers *.c -lSDL2 -lSDL2_image -lm -o maze sdl2-config --cflags --libs or make -f Makefile"
+"To run the maze, use the following command: ./maze or ./maze maps/<map_name>"
+"To disable textures, use the following command: ./maze no_tex or ./maze maps/<map_name> no_tex"
 
 -----
 
