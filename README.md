@@ -1,7 +1,5 @@
 # 3D Maze
 ### Using raycasting to create a three-dimensional maze
-![textured_1](https://github.com/kelvin-maker/maze/master/screenshots/textured_1.png)
------
 
 ### How to Compile and Run
 - [SDL2](https://www.libsdl.org/download-2.0.php) and [SDL2_image](https://www.libsdl.org/projects/SDL_image/) are required to compile and use this program
